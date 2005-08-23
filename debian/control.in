@@ -1,0 +1,15 @@
+Source: networkconfig-kanotix
+Section: net
+Priority: optional
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends-Indep: @cdbs@
+Standards-Version: 3.6.2
+
+Package: networkconfig-kanotix
+Architecture: all
+Depends: kppp, pppoeconf, kanotix-menu, kdebase-bin, ppp-scripts-kanotix
+Provides: networkconfig-knoppix
+Replaces: networkconfig-knoppix
+Conflicts: networkconfig-knoppix
+Description: network configuration xdg menus
+ This package contains the network configuration XDG Menus for KANOTIX.

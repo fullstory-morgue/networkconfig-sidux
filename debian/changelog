@@ -1,0 +1,31 @@
+networkconfig-kanotix (0.5.4) unstable; urgency=low
+
+  * packaging overhaul.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 23 Aug 2005 17:41:21 +0200
+
+networkconfig-kanotix (0.5.3) unstable; urgency=low
+
+  * remove pppoeconf desktop link
+  * switch to kanotix-su.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 30 May 2005 10:37:17 +0200
+
+networkconfig-kanotix (0.5-2) unstable; urgency=low
+
+  * Fork for Kanotix XDG compatibility.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 17 Dec 2004 21:50:49 +0100
+
+networkconfig-knoppix (0.5-2) unstable; urgency=low
+
+  * Added spanish messages by Sergio Gonzalez <sergio.gonzalez@hispalinux.es>, Luis Llorente <luis.llorente@hispalinux.es>
+
+ -- Klaus Knopper <knopper@linuxtag.net>  Fri,  6 Dec 2002 19:27:27 +0100
+
+networkconfig-knoppix (0.5-1) unstable; urgency=low
+
+  * Derived package from netcardconfig-knoppix
+
+ -- Klaus Knopper <knopper@linuxtag.net>  Sun, 12 May 2002 23:17:17 +0200
+
