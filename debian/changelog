@@ -1,3 +1,11 @@
+networkconfig-kanotix (0.5.5) unstable; urgency=low
+
+  * remove cdbs auto-update feature.
+  * remove knoppix virtual packages.
+  * bump compat level to 5.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 03:05:15 +0100
+
 networkconfig-kanotix (0.5.4) unstable; urgency=low
 
   * packaging overhaul.
