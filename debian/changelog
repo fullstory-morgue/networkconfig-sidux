@@ -1,8 +1,9 @@
-networkconfig-kanotix (0.5.6) UNRELEASED; urgency=low
+networkconfig-kanotix (0.5.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to utf-8.
+  * fix lintian errors.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 03:06:32 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  2 Nov 2006 13:54:30 +0100
 
 networkconfig-kanotix (0.5.5) unstable; urgency=low
 
