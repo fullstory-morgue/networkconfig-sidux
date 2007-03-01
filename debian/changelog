@@ -1,3 +1,9 @@
+networkconfig-sidux (0.5.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  1 Mar 2007 17:37:56 +0100
+
 networkconfig-sidux (0.5.8) unstable; urgency=low
 
   * networkconfig-kanotix was never part of sidux or debian, don't conflict
