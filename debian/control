@@ -8,6 +8,5 @@ Standards-Version: 3.7.2
 Package: networkconfig-sidux
 Architecture: all
 Depends: kppp, pppoeconf, sidux-menu, kdebase-bin, ppp-scripts
-Conflicts: networkconfig-kanotix
 Description: network configuration xdg menus
  This package contains the network configuration XDG Menus for sidux.
