@@ -1,4 +1,11 @@
 [Desktop Entry]
+Encoding=UTF-8
+Type=Application
+
+Exec=kppp %i %m
+
+Icon=kppp
+
 Comment=kppp, Internet dial-up tool for analog modems
 Comment[az]=kppp, Çevirməli şəbəkə vasitəsi
 Comment[bg]=kppp, Служи за включване на модем към Интернет
@@ -87,12 +94,6 @@ Name[uk]=Дозвін в Інтернет
 Name[vi]=Trình diaup cho Internet 
 Name[xh]=Umcofi wamanani e Internet
 Name[zh_CN.GB2312]=Internet 拨号程序
-MimeType=
-DocPath=kppp/index.html
-Exec=kppp %i %m
-Icon=kppp
-TerminalOptions=
-Path=
-Type=Application
-Terminal=0
-X-KDE-StartupNotify=true
+
+Categories=sidux;Net
+
