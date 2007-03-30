@@ -5,8 +5,9 @@ networkconfig-sidux (0.5.9) UNRELEASED; urgency=low
 
   [ Joaquim Boura ]
   * moving to xdg-menus
+  * using sidux-xdg in depends
 
- -- Joaquim Boura <x-un-i@sidux.com>  Wed, 28 Mar 2007 23:52:05 +0200
+ -- Joaquim Boura <x-un-i@sidux.com>  Fri, 30 Mar 2007 14:41:12 +0200
 
 networkconfig-sidux (0.5.8) unstable; urgency=low
 
