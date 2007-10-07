@@ -2,8 +2,9 @@ networkconfig-sidux (0.5.10) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
   * add VCS control headers.
+  * update syntax for Vcs headers in debian/control
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:19:30 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:45:42 +0200
 
 networkconfig-sidux (0.5.9) unstable; urgency=low
 
